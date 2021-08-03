@@ -17,4 +17,4 @@ Kaggleのコンテスト参加時に提出したソースコードを置きま�
 `$ git clone https://github.com/gnbrganchan/Kaggle`
 
 ## 作者
-@MasatoKawai
+[@MasatoKawai](https://twitter.com/left_tackle)
