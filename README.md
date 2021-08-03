@@ -18,8 +18,9 @@ Kaggleのコンテスト参加時に提出したソースコードを置きま�
 1. notionにてコンペページの作成
 2. 進捗などがあり次第notionの編集
 3. notebookを新しく作成する際"nb0_oooooo.ipynb"のように命名
-4. notebookをdownloadし、一つのfolderにまとめる
-5. まとめたfolderをpushすることでgithubを更新
+4. モデルの変更があり次第verの変更、紙面の方で遷移図を書いて確認
+5. notebookをdownloadし、一つのfolderにまとめる
+6. まとめたfolderをpushすることでgithubを更新
 
 ## インストール
 `$ git clone https://github.com/MasatoKawai/Kaggle`
