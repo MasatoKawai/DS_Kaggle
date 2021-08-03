@@ -1,6 +1,10 @@
 # Kaggle
 kaggleコンペで使用したkernelとコンペの思考錯誤過程(notion)を蓄積するレポジトリ
 
+## 参加コンペ
+- [RSNA-MICCAI Brain Tumor Radiogenomic Classification](https://www.kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-classification)
+  - [notionリンク](https://sky-can-ae2.notion.site/RSNA-MICCAI-Brain-Tumor-Radiogenomic-Classification-587c3081f5c9468283101d667df07c81)
+
 ## 簡単な説明
 Kaggleのコンテスト参加時に提出したソースコードを置きます。 EDA（探索的データ分析）, モデル作成はPython(jupyter notebook)が多いです。
 
