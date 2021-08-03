@@ -14,7 +14,7 @@ Kaggleのコンテスト参加時に提出したソースコードを置きま�
 - jupyter notebook
 
 ## インストール
-`$ git clone https://github.com/gnbrganchan/Kaggle`
+`$ git clone https://github.com/MasatoKawai/Kaggle`
 
 ## 作者
 [@MasatoKawai](https://twitter.com/left_tackle)
